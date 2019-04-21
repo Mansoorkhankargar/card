@@ -1,0 +1,62 @@
+body{
+	margin: 30px;
+	background: whitesmoke;
+}
+
+p{
+	margin-bottom: 0px;
+}
+
+
+.container{
+	background: #fff;
+	padding: 80px 40px;
+}
+
+
+.shadow{
+	box-shadow: 0 .1rem 0.2rem rgba(0,0,0,.15)!important;
+}
+
+.pd-0{
+	padding: 0px;
+}
+
+.card-img{
+	width: 100%;
+}
+
+
+.txt-bg{
+	background:rgba(0,0,0,.03);
+	padding-bottom: 8px;
+}
+
+
+.div-o-img{
+	position: absolute;
+	text-align: right;
+	width: 100%;
+	/*padding: 5px 10px;*/
+	bottom: 0;
+}
+
+.txt-o-img{
+
+	background: red;
+	float: right;
+	padding: 3px 5px;
+
+}
+
+.btn-usr{
+	position: relative;
+    left: 44%;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+
+
+
+
+
